@@ -400,7 +400,7 @@ text-transform: uppercase;
 }
 
 .footer .box-container .box a i{
-    padding-right: .5rem;
+    margin-right: .5rem;
 }
 
 .footer .box-container .box a:hover i{
